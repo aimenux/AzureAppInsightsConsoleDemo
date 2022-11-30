@@ -9,7 +9,8 @@ In this repo, i m logging into azure application insights within console applica
 >
 > - Each log is enriched with custom properties (scope logging)
 >
-> ![AzureAppInsightsConsoleDemo](screenshots/AzureAppInsightsConsoleDemo.png)
+> 
+![AzureAppInsightsConsoleDemo](screenshots/AzureAppInsightsConsoleDemo.png)
 >
 
 **`Tools`** : vs22, net 6.0, application-insights, serilog
